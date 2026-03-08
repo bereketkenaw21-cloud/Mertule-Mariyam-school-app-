@@ -1,0 +1,16 @@
+{
+  "name": "Mertule Mariyam School App",
+  "short_name": "Mertule App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/512.png?text=Mertule+App",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
